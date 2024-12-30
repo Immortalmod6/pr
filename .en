@@ -1,0 +1,4 @@
+vHOST=host   #optional
+PORT=port_number   #optional
+PUBLIC_URL=1hd45movie.me #mandatory
+ALLOWED_ORIGINS=https://1hd45movie.me,http://1hd45movie.me.com   #mandatory
